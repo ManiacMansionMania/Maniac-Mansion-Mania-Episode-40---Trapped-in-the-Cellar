@@ -1,5 +1,7 @@
 # Maniac Mansion Mania Episode 40: Trapped in the Cellar
 
+**This version was updated to use AGS 2.72.**
+
 ![Screenshot-Episode-40](https://maniac-mansion-mania.com/images/stories/episoden/episoden/e40.png)
 
 This is my very first self-developed point-and-click adventure game from 2006, which I developed with AGS 2.62 by Chris Jones. 
